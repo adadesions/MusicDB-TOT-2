@@ -15,10 +15,6 @@
 			"year": "2020"
 		},
 		{
-			"id": "xx",
-			"music_name": "AdaRock"
-		},
-		{
 			"music_name": "Baowee thai baan",
 			"music_genre": "Isan -rock",
 			"artist": "Baowee",
@@ -27,6 +23,13 @@
 		{
 			"id": "xx1212312121",
 			"music_name": "very good",
+			"music_genre": "abc",
+			"artist": "GGWP",
+			"year": "2020"
+		},
+		{
+			"id": "a18",
+			"music_name": "NIGHTRIDER",
 			"music_genre": "abc",
 			"artist": "GGWP",
 			"year": "2020"
