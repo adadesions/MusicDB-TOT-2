@@ -1,22 +1,26 @@
 {
   "musics": [
-      {
-		"id": "0",
-		"music_name": "NIGHTRIDER",
-		"music_genre": "Hiphop/Rap",
-		"artist": "Arizona Zervas",
-		"year": "2020"
-	},
-	{
-		"id": "1",
-		"music_name": "Dynamite",
-		"music_genre": "Pop",
-		"artist": "BTS",
-		"year": "2020"
-	},
-	{
-		"id" : "xx",
-		"music_name": "Tidarat Gaewbuadee"
-	}
-  ]
+		{
+			"id": "0",
+			"music_name": "NIGHTRIDER",
+			"music_genre": "Hiphop/Rap",
+			"artist": "Arizona Zervas",
+			"year": "2020"
+		},
+		{
+			"id": "1",
+			"music_name": "Dynamite",
+			"music_genre": "Pop",
+			"artist": "BTS",
+			"year": "2020"
+		},
+		{
+			"id" : "xx",
+			"music_name": "Tidarat Gaewbuadee",
+			"music_genre": "Isan -rock",
+			"artist": "Baowee",
+			"year": "2020"
+		}
+
+	]
 }
