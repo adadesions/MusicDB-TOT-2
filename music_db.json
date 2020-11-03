@@ -13,6 +13,13 @@
 			"music_genre": "Pop",
 			"artist": "BTS",
 			"year": "2020"
+		},
+		{
+			"id": "a18",
+			"music_name": "NIGHTRIDER",
+			"music_genre": "Rap",
+			"artist": "Arizona Zervas",
+			"year": "2020"
 		}
 	]
 }
