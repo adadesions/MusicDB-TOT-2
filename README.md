@@ -36,4 +36,4 @@
 
 <hr>
 
-# You have to edit file name "movie_db.json" by adding new data in json array.
+# You have to edit file name "music_db.json" by adding new data in json array.
