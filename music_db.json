@@ -4,8 +4,33 @@
 			"id": "MC001",
 			"music_name": "Heal the world",
 			"music_genre": "Pop",
+<<<<<<< HEAD
 			"artist": "Mc Jackson",
 			"year": "1991"
+=======
+			"artist": "BTS",
+			"year": "2020"
+		},
+		{
+			"music_name": "Baowee thai baan",
+			"music_genre": "Isan -rock",
+			"artist": "Baowee",
+			"year": "2020"
+		},
+		{
+			"id": "xx1212312121",
+			"music_name": "very good",
+			"music_genre": "abc",
+			"artist": "GGWP",
+			"year": "2020"
+		},
+		{
+			"id": "a18",
+			"music_name": "NIGHTRIDER",
+			"music_genre": "abc",
+			"artist": "GGWP",
+			"year": "2020"
+>>>>>>> d2c1d91be4f67d38f803dc8154534aab9a6b1651
 		}
 	]
 }
