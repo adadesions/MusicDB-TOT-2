@@ -1,25 +1,32 @@
-{
-  "movies": [
-      {
-		"id": "0",
-		"music_name": "NIGHTRIDER",
-		"music_genre": "Hiphop/Rap",
-		"artist": "Arizona Zervas",
-		"year": "2020"
-	},
-	{
-		"id": "1",
-		"music_name": "Dynamite",
-		"music_genre": "Pop",
-		"artist": "BTS",
-		"year": "2020"
-	},
-	{
+}
+	"musics": [
+		{
+			"id": "0",
+			"music_name": "NIGHTRIDER",
+			"music_genre": "Hiphop/Rap",
+			"artist": "Arizona Zervas",
+			"year": "2020"
+		},
+		{
+			"id": "1",
+			"music_name": "Dynamite",
+			"music_genre": "Pop",
+			"artist": "BTS",
+			"year": "2020"
+		},
+		{
+			"id": "xx",
+			"music_name": "Baowee thai baan",
+			"music_genre": "Isan -rock",
+			"artist": "Baowee",
+			"year": "2020"
+		},
+    {
 		"id": "xx1212312121",
 		"music_name": "very good",
 		"music_genre": "abc",
 		"artist": "GGWP",
 		"year": "2020"
-	}
-  ]
+	  }
+	]
 }
