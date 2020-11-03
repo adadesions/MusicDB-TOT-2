@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "musics": [
 		{
 			"id": "0",
@@ -35,4 +36,22 @@
 			"year": "2020"
 		}
 	]
+=======
+  music: [
+      {
+		"id": "0",
+		"music_name": "NIGHTRIDER",
+		"music_genre": "Hiphop/Rap",
+		"artist": "Arizona Zervas",
+		"year": "2020"
+	},
+	{
+		"id": "1",
+		"music_name": "Dynamite",
+		"music_genre": "Pop",
+		"artist": "BTS",
+		"year": "202088888"
+	}
+  ]
+>>>>>>> 7419c099a326dc49c154df694ef25fd5f4e1aad2
 }
