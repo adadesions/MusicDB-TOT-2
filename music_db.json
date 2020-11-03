@@ -1,18 +1,11 @@
 {
 	"musics": [
 		{
-			"id": "0",
-			"music_name": "NIGHTRIDER",
-			"music_genre": "Hiphop/Rap",
-			"artist": "Arizona Zervas",
-			"year": "2020"
-		},
-		{
-			"id": "1",
-			"music_name": "Dynamite",
+			"id": "MC001",
+			"music_name": "Heal the world",
 			"music_genre": "Pop",
-			"artist": "BTS",
-			"year": "2020"
+			"artist": "Mc Jackson",
+			"year": "1991"
 		}
 	]
 }
