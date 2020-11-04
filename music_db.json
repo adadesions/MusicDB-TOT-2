@@ -1,128 +1,144 @@
 {
 	"musics": [
-   {
-    "id": "0",
-    "music_name": "NIGHTRIDER",
-    "music_genre": "Hiphop/Rap",
-    "artist": "Arizona Zervas",
-    "year": "2020"
+  {
+	"id": "1",
+	"music_name": "Dynamite",
+	"music_genre": "Pop",
+	"artist": "BTS",
+	"year": "2020"
   },
   {
-    "id": "1",
-    "music_name": "Dynamite",
-    "music_genre": "Pop",
-    "artist": "BTS",
-    "year": "2020"
+	"id": "2",
+	"music_name": "Poo-neep-e-pi",
+	"music_genre": "Pop",
+	"artist": "BTS",
+	"year": "2020"
+  }, 
+  {
+	"id" : "3",
+	"music_name": "Tidarat Gaewbuadee",
+	"music_genre": "R&B",
+	"artist": "miw",
+	"year": "2020"
   },
   {
-    "id": "2",
-    "music_name": "Poo-neep-e-pi",
-    "music_genre": "Pop",
-    "artist": "BTS"
-  {
-    "id" : "3",
-    "music_name": "Tidarat Gaewbuadee",
-    "music_genre": "R&B",
-    "artist": "miw",
-    "year": "2020"
+	"id": "4",
+	"music_name": "Pretty Savage",
+	"music_genre": "Hiphop",
+	"artist": "BLACKPINK",
+	"year": "2020"
+ },
+ {
+	"id": "5",
+	"music_name": "Happy Wife Happy Life",
+	"music_genre": "Hiphop/Rap",
+	"artist": "MINDSET",
+	"year": "2020"
+ },
+ {
+	"id": "6",
+	"music_name": "Bet You Wanna (Feat. Cardi B)",
+	"music_genre": "Pop",
+	"artist": "BLACKPINK",
+	"year": "2020"
+},
+{
+	"id": "7",
+	"music_name": "Intentions",
+	"music_genre": "Pop",
+	"artist": "Justin Bieber",
+	"year": "2020"
+},
+ {
+	"id": "8",
+	"music_name": "Carousel",
+	"music_genre": "Linkin Park",
+	"artist": "Rock",
+	"year": "2020"
   },
   {
-		"id": "#4",
-		"music_name": "NIGHTRIDER",
-		"music_genre": "Hiphop/Rap",
-		"artist": "Arizona Zervas",
-		"year": "2020"
-	},
-	{
-		"id": "#5",
-		"music_name": "Dynamite",
-		"music_genre": "Pop",
-		"artist": "BTS",
-		"year": "2020"
-	},
-	{
-		"id": "6",
-		"music_name": "Pretty Savage",
-		"music_genre": "Hiphop",
-		"artist": "BLACKPINK",
-		"year": "2020"
-	},
-	{
-		"id": "7",
-		"music_name": "Happy Wife Happy Life",
-		"music_genre": "Hiphop/Rap",
-		"artist": "MINDSET",
-		"year": "2020"
-	},
-	{
-		"id": "8",
-		"music_name": "Bet You Wanna (Feat. Cardi B)",
-		"music_genre": "Pop",
-		"artist": "BLACKPINK",
-		"year": "2020"
-	},
-	{
-		"id": "9",
-		"music_name": "Intentions",
-		"music_genre": "Pop",
-		"artist": "Justin Bieber",
-		"year": "2020"
-	},
-  {
-    "id": "10",
-    "music_name": "Carousel",
-    "music_genre": "Linkin Park",
-    "artist": "Rock",
-    "year": "2020"
+	"id": "9",
+	"music_name": "Castle of Glass ",
+	"music_genre": "Linkin Park",
+	"artist": "Rock",
+	"year": "2013"
   },
   {
-    "id": "11",
-    "music_name": "Castle of Glass ",
-    "music_genre": "Linkin Park",
-    "artist": "Rock",
-    "year": "2013"
+	"id": "10",
+	"music_name": "Come Around Me",
+	"music_genre": "POP",
+	"artist": "Justin Bieber",
+	"year": "2020"
   },
   {
-    "id": "12",
-    "music_name": "Come Around Me",
-    "music_genre": "POP",
-    "artist": "Justin Bieber",
-    "year": "2020"
+	"id": "11",
+	"music_name": "Trip",
+	"music_genre": "R&B",
+	"artist": "Ella Mai",
+	"year": "2018"
   },
   {
-    "id": "13",
-    "music_name": "Trip",
-    "music_genre": "R&B",
-    "artist": "Ella Mai",
-    "year": "2018"
+	"id" : "12",
+	"music_name": "Young Dumb & Broke",
+	"music_genre": "R&B",
+	"artist": "Khalid",
+	"year": "2017"
   },
   {
-    "id" : "14",
-    "music_name": "Young Dumb & Broke",
-    "music_genre": "R&B",
-    "artist": "Khalid",
-    "year": "2017"
+	"id" : "13",
+	"music_name": "6 AM",
+	"music_genre": "R&B",
+	"artist": "เมลานี่ ฟิโอน่า, ที-เพน",
+	"year": "2012"
   },
   {
-    "id" : "15",
-    "music_name": "6 AM",
-    "music_genre": "R&B",
-    "artist": "เมลานี่ ฟิโอน่า, ที-เพน",
-    "year": "2012"
+	"id" : "14",
+	"music_name": "This Town",
+	"music_genre": "POP",
+	"artist": "Kygo",
+	"year": "2017"
   },
   {
-    "id" : "16",
-    "music_name": "This Town",
-    "music_genre": "POP",
-    "artist": "Kygo",
-    "year": "2017"
+	"id" : "15",
+	"music_name": "Paris and Rain",
+	"music_genre": "POP",
+	"artist": "Lauv",
+	"year": "2018"
+  },   
+  {
+	"id": "16",
+	"music_name": "NIGHTRIDER",
+	"music_genre": "Hiphop/Rap",
+	"artist": "Arizona Zervas",
+	"year": "2020"
   },
   {
-    "id" : "17",
-    "music_name": "Paris and Rain",
-    "music_genre": "POP",
-    "artist": "Lauv",
-    "year": "2018"
+	"id" : "17",
+	"music_name": "Break My Heart",
+	"music_genre": "Dance",
+	"artist": "Dua Lipa",
+	"year": "2020"
   },
+  {
+	"id" : "18",
+	"music_name": "Circles",
+	"music_genre": "POP",
+	"artist": "Post Malone",
+	"year": "2019"
+  },
+  {
+	"id" : "19",
+	"music_name": "Someone You Loved",
+	"music_genre": "Indy",
+	"artist": "Lewis Capaldi",
+	"year": "2019"
+  },
+  {
+	"id" : "20",
+	"music_name": "Adore You",
+	"music_genre": "POP",
+	"artist": "Harry Styles",
+	"year": "2019"
+  }
   ]
 }
