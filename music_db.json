@@ -82,5 +82,47 @@
     "artist": "Rock",
     "year": "2013"
   },
+  {
+    "id": "12",
+    "music_name": "Come Around Me",
+    "music_genre": "POP",
+    "artist": "Justin Bieber",
+    "year": "2020"
+  },
+  {
+    "id": "13",
+    "music_name": "Trip",
+    "music_genre": "R&B",
+    "artist": "Ella Mai",
+    "year": "2018"
+  },
+  {
+    "id" : "14",
+    "music_name": "Young Dumb & Broke",
+    "music_genre": "R&B",
+    "artist": "Khalid",
+    "year": "2017"
+  },
+  {
+    "id" : "15",
+    "music_name": "6 AM",
+    "music_genre": "R&B",
+    "artist": "เมลานี่ ฟิโอน่า, ที-เพน",
+    "year": "2012"
+  },
+  {
+    "id" : "16",
+    "music_name": "This Town",
+    "music_genre": "POP",
+    "artist": "Kygo",
+    "year": "2017"
+  },
+  {
+    "id" : "17",
+    "music_name": "Paris and Rain",
+    "music_genre": "POP",
+    "artist": "Lauv",
+    "year": "2018"
+  },
   ]
 }
