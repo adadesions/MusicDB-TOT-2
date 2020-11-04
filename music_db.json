@@ -111,6 +111,34 @@
 	"music_genre": "Hiphop/Rap",
 	"artist": "Arizona Zervas",
 	"year": "2020"
+  },
+  {
+	"id" : "17",
+	"music_name": "Break My Heart",
+	"music_genre": "Dance",
+	"artist": "Dua Lipa",
+	"year": "2020"
+  },
+  {
+	"id" : "18",
+	"music_name": "Circles",
+	"music_genre": "POP",
+	"artist": "Post Malone",
+	"year": "2019"
+  },
+  {
+	"id" : "19",
+	"music_name": "Someone You Loved",
+	"music_genre": "Indy",
+	"artist": "Lewis Capaldi",
+	"year": "2019"
+  },
+  {
+	"id" : "20",
+	"music_name": "Adore You",
+	"music_genre": "POP",
+	"artist": "Harry Styles",
+	"year": "2019"
   }
   ]
 }
