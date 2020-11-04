@@ -1,44 +1,86 @@
 {
 	"musics": [
-		{
-			"id": "0",
-			"music_name": "NIGHTRIDER",
-			"music_genre": "Hiphop/Rap",
-			"artist": "Arizona Zervas",
-			"year": "2020"
-		},
-		{
-			"id": "1",
-			"music_name": "Dynamite",
-			"music_genre": "Pop",
-			"artist": "BTS",
-			"year": "2020"
-		},
-		{
-			"id": "13",
-			"music_name": "Poo-neep-e-pi",
-			"music_genre": "Pop",
-			"artist": "BTS"
-    {
-			"id" : "15",
-			"music_name": "Tidarat Gaewbuadee",
-			"music_genre": "R&B",
-			"artist": "miw",
-			"year": "2020"
-		},
-		{
-			"id": "xx1",
-			"music_name": "Carousel",
-			"music_genre": "Linkin Park",
-			"artist": "Rock",
-			"year": "2020"
-		},
-		{
-			"id": "xx2",
-			"music_name": "Castle of Glass ",
-			"music_genre": "Linkin Park",
-			"artist": "Rock",
-			"year": "2013"
-		},
-	]
+   {
+    "id": "0",
+    "music_name": "NIGHTRIDER",
+    "music_genre": "Hiphop/Rap",
+    "artist": "Arizona Zervas",
+    "year": "2020"
+  },
+  {
+    "id": "1",
+    "music_name": "Dynamite",
+    "music_genre": "Pop",
+    "artist": "BTS",
+    "year": "2020"
+  },
+  {
+    "id": "2",
+    "music_name": "Poo-neep-e-pi",
+    "music_genre": "Pop",
+    "artist": "BTS"
+  {
+    "id" : "3",
+    "music_name": "Tidarat Gaewbuadee",
+    "music_genre": "R&B",
+    "artist": "miw",
+    "year": "2020"
+  },
+  {
+		"id": "#4",
+		"music_name": "NIGHTRIDER",
+		"music_genre": "Hiphop/Rap",
+		"artist": "Arizona Zervas",
+		"year": "2020"
+	},
+	{
+		"id": "#5",
+		"music_name": "Dynamite",
+		"music_genre": "Pop",
+		"artist": "BTS",
+		"year": "2020"
+	},
+	{
+		"id": "6",
+		"music_name": "Pretty Savage",
+		"music_genre": "Hiphop",
+		"artist": "BLACKPINK",
+		"year": "2020"
+	},
+	{
+		"id": "7",
+		"music_name": "Happy Wife Happy Life",
+		"music_genre": "Hiphop/Rap",
+		"artist": "MINDSET",
+		"year": "2020"
+	},
+	{
+		"id": "8",
+		"music_name": "Bet You Wanna (Feat. Cardi B)",
+		"music_genre": "Pop",
+		"artist": "BLACKPINK",
+		"year": "2020"
+	},
+	{
+		"id": "9",
+		"music_name": "Intentions",
+		"music_genre": "Pop",
+		"artist": "Justin Bieber",
+		"year": "2020"
+	},
+  {
+    "id": "10",
+    "music_name": "Carousel",
+    "music_genre": "Linkin Park",
+    "artist": "Rock",
+    "year": "2020"
+  },
+  {
+    "id": "11",
+    "music_name": "Castle of Glass ",
+    "music_genre": "Linkin Park",
+    "artist": "Rock",
+    "year": "2013"
+  },
+  ]
 }
